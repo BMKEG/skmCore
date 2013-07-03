@@ -1,0 +1,1 @@
+This is where we generate the journal lookup table as a java object. 
