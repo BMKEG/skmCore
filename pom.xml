@@ -4,13 +4,13 @@
 	<parent>
 		<artifactId>bmkeg-parent</artifactId>
 		<groupId>edu.isi.bmkeg</groupId>
-		<version>1.1.3-SNAPSHOT</version>
+		<version>1.1.5-SNAPSHOT</version>
 		<relativePath>../bmkeg-parent</relativePath>
 	</parent>
 	
 	<groupId>edu.isi.bmkeg</groupId>
 	<artifactId>skmCore</artifactId>
-	<version>1.1.3-SNAPSHOT</version>
+	<version>1.1.5-SNAPSHOT</version>
 	<name>SciKnowMine Core Utilities</name>
  	
 	<build>
